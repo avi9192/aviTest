@@ -1,2 +1,1 @@
-This is test file addded in this project for enabling forking in repo.
-Commit another line for test
+This is test file addded in this project for enabling fork.
